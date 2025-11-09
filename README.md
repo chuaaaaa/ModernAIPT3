@@ -3,7 +3,7 @@ Predicting Abalone Age Using Machine Learning
 
 Our environment setup via google colab
 
-// Firstly we need to import libraries 
+## Firstly we need to import libraries 
 
 import pandas as pd
 import numpy as np
@@ -13,10 +13,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.base import BaseEstimator, TransformerMixin
 
-// install package
 pip install ucimlrepo
 
-// Loading the data into a dataframe
+##  Loading the data into a dataframe
 
 from ucimlrepo import fetch_ucirepo
 // get dataset import into google colab
